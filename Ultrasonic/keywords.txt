@@ -1,0 +1,5 @@
+Ultrasonic	KEYWORD1
+Interval	KEYWORD2
+Distance	KEYWORD2
+AverageCm	KEYWORD2
+AverageIn	KEYWORD2
