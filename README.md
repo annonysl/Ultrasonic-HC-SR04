@@ -9,6 +9,7 @@ You can set the max distance as
     entering timeOut duration
     TimeOut=58*max distance in cm.
 Or you can use the default max distance is set to 75cm
+    
     Ultrasonic ultra(TrigPin,EchoPin)
 
 Distance can be easily get in cm or in
